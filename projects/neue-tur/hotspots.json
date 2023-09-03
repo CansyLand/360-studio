@@ -1,0 +1,59 @@
+[
+	{
+		"index": "1",
+		"image_url": "https://cvm-cadstudio.eu/360/projects/neue-tur/archi_1.png",
+		"hotspots": [
+			{
+				"position": {
+					"x": 0.41986532989155545,
+					"y": -0.7199308819906289,
+					"z": -10.988421309397253
+				},
+				"rotation": {
+					"x": -1.3752334272400584,
+					"y": -0.8019098926017166,
+					"z": -0.01925079084737306
+				},
+				"nextSceneIndex": "2"
+			}
+		]
+	},
+	{
+		"index": "2",
+		"image_url": "https://cvm-cadstudio.eu/360/projects/neue-tur/mars_1.png",
+		"hotspots": [
+			{
+				"position": {
+					"x": -15.212801119917128,
+					"y": 25.749807347841347,
+					"z": 2.3490644169336217
+				},
+				"rotation": {
+					"x": 95.2124646796526,
+					"y": 30.470413832487527,
+					"z": -100.19846629625923
+				},
+				"nextSceneIndex": "3"
+			}
+		]
+	},
+	{
+		"index": "3",
+		"image_url": "https://cvm-cadstudio.eu/360/projects/neue-tur/tauchen1.png",
+		"hotspots": [
+			{
+				"position": {
+					"x": -8.330796308150902,
+					"y": 16.440718103756215,
+					"z": 23.670670060328273
+				},
+				"rotation": {
+					"x": 145.21767354558796,
+					"y": 16.12257641684803,
+					"z": -169.0831420874818
+				},
+				"nextSceneIndex": "1"
+			}
+		]
+	}
+]
